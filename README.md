@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![suhyeon10's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyeon10&show_icons=true&count_private=true)
+![suhyeon10's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyeon10&hide=stars&count_private=false&show_icons=true)
 [![suhyeon10's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyeon10&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/suhyeon10)
